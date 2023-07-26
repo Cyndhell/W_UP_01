@@ -60,6 +60,7 @@ The box plot shows that the skill player position on average does about 60 push 
 favstats(pushups~position,data=mydata)
 ```
 
+In this table summary we have found that the mean in the line player is about 17 and the skill player is about 50. The  difference in mean is like 33 push ups.
 
 
 ## Inferential Results
