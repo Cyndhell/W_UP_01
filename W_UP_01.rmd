@@ -71,14 +71,14 @@ In this table summary we have found that the mean in the line player is about 17
 t.test(pushups~position,data=mydata)
 ```
 
-The p-value is 0.0000009421
+The t-test show that there is a difference in average push ups between the line player and the skill player the p- value that we got is 0.0000009421, the p-value is too small that's why we reject the null hypothesis the difference is 33 push ups more than line players. 95 percent of the time the skill player do.
 
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-In the conclusion
+
 
 
 
